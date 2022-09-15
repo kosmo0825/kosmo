@@ -32,7 +32,6 @@ public class Using_StaticMethod03 {
 		
 	}
 	
-
 	public static void main(String[] args) {
 		//객체 생성 없이 static 필드 호출 . 
 		
